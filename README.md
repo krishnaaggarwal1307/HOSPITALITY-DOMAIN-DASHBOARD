@@ -59,7 +59,7 @@ and make actionable decisions to enhance efficiency and revenue growth.
 ---
 
 ## 📷 **Dashboard Snapshot**
-![Hotel Performance Dashboard]()
+![Hotel Performance Dashboard](https://github.com/krishnaaggarwal1307/HOSPITALITY-DOMAIN-DASHBOARD/blob/main/DASHBOARD%20SNAPSHOT.png)
 
 ---
 
